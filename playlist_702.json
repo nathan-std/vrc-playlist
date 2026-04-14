@@ -1,19 +1,31 @@
-[
-  {
-    "title": "Take the A Train (Duke Ellington)",
-    "url": "https://www.youtube.com/watch?v=cb2w2m1JmCY"
-  },
-  {
-    "title": "I Just Want To Make Love To You (Etta James)",
-    "url": "https://www.youtube.com/watch?v=-by8rCyHzn4&list=LL&index=7"
-  },
-  {
-    "title": "Baby Love (15,16,17)",
-    "url": "https://www.youtube.com/watch?v=_xUoqsLua2I"
-  },
-  {
-    "title": "a 60s Rocksteady Vinyl Mix for Lonely Hearts (Mix)",
-    "url": "https://www.youtube.com/watch?v=-by8rCyHzn4&list=LL&index=7"
-  }
-
-]
+{
+  "SerializedFormat": 4,
+  "titles": [
+    "Take the A Train (Duke Ellington)",
+    "I Just Want To Make Love To You (Etta James)",
+    "Baby Love (15,16,17)",
+    "a 60s Rocksteady Vinyl Mix for Lonely Hearts (Mix)",
+    "JAPANESE LOVERS ROCK REGGAE VINYL SET VOL. 2"
+  ],
+  "urls": [
+    "https://www.youtube.com/watch?v=cb2w2m1JmCY",
+    "https://www.youtube.com/watch?v=-by8rCyHzn4",
+    "https://www.youtube.com/watch?v=_xUoqsLua2I",
+    "https://www.youtube.com/watch?v=GYTWFOqCpmg",
+    "https://www.youtube.com/watch?v=U5MldtDJ2Ss"
+  ],
+  "descriptions": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "playMode": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
